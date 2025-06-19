@@ -1,0 +1,91 @@
+body {
+background-color: #ffb7ce;
+font-family: 'Courier New', Courier, monospace;
+text-align: center;
+background-image: linear-gradient(pink, red);
+}
+
+h1{
+    margin-top: 75px;
+    margin-bottom: 75px;
+    font-style: italic;
+    color: forestgreen;
+    outline: auto;
+    outline-style:groove;
+    margin-right: 40%;
+    margin-left: 40%;
+    font-size: 40px;
+    background-color: white;
+    border-width: 15px;
+    border-color: #964B00;
+}
+
+
+
+ul {
+    list-style-type: none
+    
+
+}
+
+a {
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ text-decoration: none;
+ color: #964B00;
+ font-size: 30px;
+}
+
+
+
+img {
+    height: 100px;
+    width: 100px;
+    border-color: #964B00;
+    border-width: 5px; 
+    border-style: outset;
+    
+}
+
+
+
+.odd {
+    margin-left: 90%;
+    border-style: outset;
+    border-width: 10px;
+    background: white;
+
+}
+
+.even{
+    margin-right: 90%;
+     border-style: outset;
+    border-width: 10px;
+    background: white;
+
+}
+
+#tiktok{
+    border-style: outset;
+    border-width: 10px;
+    margin-right: 40%;
+    margin-left: 40%;
+    background: white;
+}
+
+#instagram{
+    border-style: outset;
+    border-width: 10px;
+    margin-right: 40%;
+    margin-left: 40%;
+    background: white;
+}
+
+#sad-time{
+    margin-left: 80%;   
+   border-style: outset;
+   border-width: 10px;
+   background: black;
+   color: pink;
+   font-size: 20px;
+   margin-top: 40px;
+}
